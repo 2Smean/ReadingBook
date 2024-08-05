@@ -1,4 +1,4 @@
-package Chap2_GenerateObjectAndDestory.item2;
+package Chap2_GenerateObjectAndDestory.item2.hierarchicalbuilder;
 
 import java.util.Objects;
 

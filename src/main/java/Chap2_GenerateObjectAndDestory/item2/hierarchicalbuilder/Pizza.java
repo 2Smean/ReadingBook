@@ -1,4 +1,4 @@
-package Chap2_GenerateObjectAndDestory.item2;
+package Chap2_GenerateObjectAndDestory.item2.hierarchicalbuilder;
 
 import java.util.EnumSet;
 import java.util.Objects;
@@ -28,5 +28,5 @@ public abstract class Pizza {
 
     Pizza(Builder<?> builder) {
         toppings = builder.toppings.clone();
-    }
+    } // 아이템 50 참조
 }
