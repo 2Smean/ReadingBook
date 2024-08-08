@@ -46,11 +46,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Chap2_GenerateObjectAndDestory.item6.Strings.StringTest.executor": "Run",
     "Application.GenericSingletonFactoryPattern.executor": "Run",
     "Application.NutritionFacts.executor": "Run",
     "Application.NutritionFactsMain.executor": "Run",
     "Application.RomanNumberals.executor": "Run",
+    "Application.StringTest.executor": "Run",
     "Application.Sum.executor": "Run",
+    "Application.UsingKeySet.executor": "Run",
     "Application.UtilClass.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -58,7 +61,7 @@
     "Tomcat Server.Tomcat 9.0.822.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/iseungmin/Desktop/Lee/ReadingBook/src/main/java/Chap2_GenerateObjectAndDestory/item2/lombok",
+    "last_opened_file_path": "/Users/iseungmin/Desktop/Lee/ReadingBook/src/main/java/Chap2_GenerateObjectAndDestory/item5/usecase3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +76,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item5/usecase3" />
+      <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item5/usecase2" />
+      <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item5" />
       <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item2/lombok" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -80,26 +86,13 @@
       <recent name="Chap2_GenerateObjectAndDestory.item2.javabeans" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UtilClass">
-    <configuration name="GenericSingletonFactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item30.GenericSingletonFactoryPattern" />
+  <component name="RunManager" selected="Application.UsingKeySet">
+    <configuration name="Chap2_GenerateObjectAndDestory.item6.Strings.StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.Strings.StringTest" />
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NutritionFacts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item2.telescopingconstructor.NutritionFacts" />
-      <module name="ReadingBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item2.telescopingconstructor.*" />
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item6.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +113,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.Sum" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.StringTest" />
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsingKeySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.map.UsingKeySet" />
+      <module name="ReadingBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item6.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsingKeySet" />
+        <item itemvalue="Application.Chap2_GenerateObjectAndDestory.item6.Strings.StringTest" />
+        <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.UtilClass" />
         <item itemvalue="Application.RomanNumberals" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.GenericSingletonFactoryPattern" />
-        <item itemvalue="Application.NutritionFacts" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +221,7 @@
       <workItem from="1722774075229" duration="13456000" />
       <workItem from="1722927883690" duration="17568000" />
       <workItem from="1723015135058" duration="58000" />
-      <workItem from="1723015442063" duration="1742000" />
+      <workItem from="1723015442063" duration="14707000" />
     </task>
     <servers />
   </component>
