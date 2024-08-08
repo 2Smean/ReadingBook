@@ -26,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -46,6 +49,9 @@
     "Application.GenericSingletonFactoryPattern.executor": "Run",
     "Application.NutritionFacts.executor": "Run",
     "Application.NutritionFactsMain.executor": "Run",
+    "Application.RomanNumberals.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.UtilClass.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -74,7 +80,7 @@
       <recent name="Chap2_GenerateObjectAndDestory.item2.javabeans" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericSingletonFactoryPattern">
+  <component name="RunManager" selected="Application.UtilClass">
     <configuration name="GenericSingletonFactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item30.GenericSingletonFactoryPattern" />
       <module name="ReadingBook" />
@@ -101,12 +107,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NutritionFactsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item2.lombok.NutritionFactsMain" />
+    <configuration name="RomanNumberals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.RomanNumberals" />
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item2.lombok.*" />
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.Sum" />
+      <module name="ReadingBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item4.study.UtilClass" />
+      <module name="ReadingBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item4.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,9 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UtilClass" />
+        <item itemvalue="Application.RomanNumberals" />
+        <item itemvalue="Application.Sum" />
         <item itemvalue="Application.GenericSingletonFactoryPattern" />
         <item itemvalue="Application.NutritionFacts" />
-        <item itemvalue="Application.NutritionFactsMain" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +213,9 @@
       <workItem from="1722582354693" duration="1553000" />
       <workItem from="1722675944539" duration="4175000" />
       <workItem from="1722774075229" duration="13456000" />
-      <workItem from="1722927883690" duration="14195000" />
+      <workItem from="1722927883690" duration="17568000" />
+      <workItem from="1723015135058" duration="58000" />
+      <workItem from="1723015442063" duration="1742000" />
     </task>
     <servers />
   </component>
