@@ -46,14 +46,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Adult.executor": "Run",
     "Application.Chap2_GenerateObjectAndDestory.item6.Strings.StringTest.executor": "Run",
+    "Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner.executor": "Run",
     "Application.GenericSingletonFactoryPattern.executor": "Run",
     "Application.NutritionFacts.executor": "Run",
     "Application.NutritionFactsMain.executor": "Run",
     "Application.RomanNumberals.executor": "Run",
+    "Application.SampleRunner.executor": "Run",
     "Application.Stack.executor": "Run",
     "Application.StringTest.executor": "Run",
     "Application.Sum.executor": "Run",
+    "Application.Teenager.executor": "Run",
     "Application.UsingKeySet.executor": "Run",
     "Application.UtilClass.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -62,7 +66,7 @@
     "Tomcat Server.Tomcat 9.0.822.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/iseungmin/Desktop/Lee/ReadingBook/src/main/java/Chap2_GenerateObjectAndDestory/item5/usecase3",
+    "last_opened_file_path": "/Users/iseungmin/Desktop/Lee/ReadingBook/src/main/java/Chap2_GenerateObjectAndDestory/item8/study/autocloseable",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +81,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item8/study/autocloseable" />
       <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item5/usecase3" />
       <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item5/usecase2" />
       <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item5" />
@@ -88,13 +93,39 @@
       <recent name="Chap2_GenerateObjectAndDestory.item2.javabeans" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stack">
-    <configuration name="Chap2_GenerateObjectAndDestory.item6.Strings.StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.Strings.StringTest" />
+  <component name="RunManager" selected="Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner">
+    <configuration name="Adult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item8.cleaner.Adult" />
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item6.Strings.*" />
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item8.cleaner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner" />
+      <module name="ReadingBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item8.study.autocloseable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item8.study.finalizer.SampleRunner" />
+      <module name="ReadingBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item8.study.finalizer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,38 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.StringTest" />
+    <configuration name="Teenager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item8.cleaner.Teenager" />
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsingKeySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item6.map.UsingKeySet" />
-      <module name="ReadingBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item6.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UtilClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item4.study.UtilClass" />
-      <module name="ReadingBook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item4.study.*" />
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item8.cleaner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner" />
+        <item itemvalue="Application.SampleRunner" />
+        <item itemvalue="Application.Teenager" />
+        <item itemvalue="Application.Adult" />
         <item itemvalue="Application.Stack" />
-        <item itemvalue="Application.UsingKeySet" />
-        <item itemvalue="Application.Chap2_GenerateObjectAndDestory.item6.Strings.StringTest" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.UtilClass" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +229,8 @@
       <workItem from="1722927883690" duration="17568000" />
       <workItem from="1723015135058" duration="58000" />
       <workItem from="1723015442063" duration="14707000" />
-      <workItem from="1723177925037" duration="7122000" />
+      <workItem from="1723177925037" duration="7278000" />
+      <workItem from="1723265845495" duration="6269000" />
     </task>
     <servers />
   </component>
