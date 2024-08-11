@@ -47,8 +47,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Adult.executor": "Run",
+    "Application.AppRunner.executor": "Run",
     "Application.Chap2_GenerateObjectAndDestory.item6.Strings.StringTest.executor": "Run",
     "Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner.executor": "Run",
+    "Application.FirstLineWithDefault.executor": "Run",
     "Application.GenericSingletonFactoryPattern.executor": "Run",
     "Application.NutritionFacts.executor": "Run",
     "Application.NutritionFactsMain.executor": "Run",
@@ -93,13 +95,13 @@
       <recent name="Chap2_GenerateObjectAndDestory.item2.javabeans" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner">
-    <configuration name="Adult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item8.cleaner.Adult" />
+  <component name="RunManager" selected="Application.AppRunner">
+    <configuration name="AppRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item9.study.AppRunner" />
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item8.cleaner.*" />
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item9.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item8.study.finalizer.SampleRunner" />
+    <configuration name="FirstLineWithDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item9.trywithresources.FirstLineWithDefault" />
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item8.study.finalizer.*" />
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item9.trywithresources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item7.memoryleak.Stack" />
+    <configuration name="SampleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item8.study.finalizer.SampleRunner" />
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item7.memoryleak.*" />
+          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item8.study.finalizer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppRunner" />
+        <item itemvalue="Application.FirstLineWithDefault" />
         <item itemvalue="Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner" />
         <item itemvalue="Application.SampleRunner" />
         <item itemvalue="Application.Teenager" />
-        <item itemvalue="Application.Adult" />
-        <item itemvalue="Application.Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +233,7 @@
       <workItem from="1723015442063" duration="14707000" />
       <workItem from="1723177925037" duration="7278000" />
       <workItem from="1723265845495" duration="6269000" />
+      <workItem from="1723339319184" duration="7392000" />
     </task>
     <servers />
   </component>
