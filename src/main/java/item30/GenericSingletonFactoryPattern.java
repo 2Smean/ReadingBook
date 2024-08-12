@@ -1,4 +1,4 @@
-package Chap2_GenerateObjectAndDestory.item30;
+package item30;
 
 import java.util.function.UnaryOperator;
 

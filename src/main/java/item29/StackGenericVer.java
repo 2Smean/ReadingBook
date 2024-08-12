@@ -1,4 +1,4 @@
-package Chap2_GenerateObjectAndDestory.item29;
+package item29;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;
