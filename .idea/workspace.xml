@@ -18,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -45,44 +45,45 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Adult.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AppRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CaseinsensitiveString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Chap2_GenerateObjectAndDestory.item6.Strings.StringTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstLineWithDefault.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericSingletonFactoryPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NutritionFacts.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NutritionFactsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RomanNumberals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SampleRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Teenager.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UsingKeySet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UtilClass.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Tomcat Server.Tomcat 9.0.822.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/iseungmin/Desktop/Lee/ReadingBook/src/main/java/Chap2_GenerateObjectAndDestory/item8/study/autocloseable&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Adult.executor": "Run",
+    "Application.AppRunner.executor": "Run",
+    "Application.CaseinsensitiveString.executor": "Run",
+    "Application.Chap2_GenerateObjectAndDestory.item6.Strings.StringTest.executor": "Run",
+    "Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner.executor": "Run",
+    "Application.FirstLineWithDefault.executor": "Run",
+    "Application.GenericSingletonFactoryPattern.executor": "Run",
+    "Application.NutritionFacts.executor": "Run",
+    "Application.NutritionFactsMain.executor": "Run",
+    "Application.RomanNumberals.executor": "Run",
+    "Application.SampleRunner.executor": "Run",
+    "Application.Stack.executor": "Run",
+    "Application.StringTest.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.Teenager.executor": "Run",
+    "Application.UsingKeySet.executor": "Run",
+    "Application.UtilClass.executor": "Run",
+    "JUnit.GradeTest.scoreResult.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.Tomcat 9.0.822.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/iseungmin/Desktop/Lee/ReadingBook/src/main/java/Chap2_GenerateObjectAndDestory/item8/study/autocloseable",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/Chap2_GenerateObjectAndDestory/item8/study/autocloseable" />
@@ -97,7 +98,7 @@
       <recent name="Chap2_GenerateObjectAndDestory.item2.javabeans" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CaseinsensitiveString">
+  <component name="RunManager" selected="JUnit.GradeTest.scoreResult">
     <configuration name="AppRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item9.study.AppRunner" />
       <module name="ReadingBook" />
@@ -150,15 +151,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_GenerateObjectAndDestory.item8.study.finalizer.SampleRunner" />
+    <configuration name="GradeTest.scoreResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ReadingBook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_GenerateObjectAndDestory.item8.study.finalizer.*" />
+          <option name="PATTERN" value="tdd_test_case.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="tdd_test_case" />
+      <option name="MAIN_CLASS_NAME" value="tdd_test_case.GradeTest" />
+      <option name="METHOD_NAME" value="scoreResult" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -201,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GradeTest.scoreResult" />
         <item itemvalue="Application.CaseinsensitiveString" />
         <item itemvalue="Application.AppRunner" />
         <item itemvalue="Application.FirstLineWithDefault" />
         <item itemvalue="Application.Chap2_GenerateObjectAndDestory.item8.study.autocloseable.SampleRunner" />
-        <item itemvalue="Application.SampleRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +245,7 @@
       <workItem from="1723698933874" duration="634000" />
       <workItem from="1723707600089" duration="1250000" />
       <workItem from="1723986411765" duration="518000" />
+      <workItem from="1730364423199" duration="1101000" />
     </task>
     <servers />
   </component>
